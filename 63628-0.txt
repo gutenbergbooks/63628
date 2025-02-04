@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of The Children's Story of Westminster Abbey,
+﻿The Project Gutenberg EBook of The Childrens's Story of Westminster Abbey,
 by G. E. Troutbeck
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -9,7 +9,7 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this ebook.
 
-Title: The Children's Story of Westminster Abbey
+Title: The Childrens's Story of Westminster Abbey
 
 Author: G. E. Troutbeck
 
@@ -23,7 +23,7 @@ Produced by: Richard Tonsing and the Online Distributed Proofreading Team
              at https://www.pgdp.net (This file was produced from images
              generously made available by The Internet Archive)
 
-*** START OF THE PROJECT GUTENBERG EBOOK THE CHILDREN'S STORY OF
+*** START OF THE PROJECT GUTENBERG EBOOK THE CHILDRENS'S STORY OF
 WESTMINSTER ABBEY ***
 
 
@@ -4743,7 +4743,7 @@ righteousness that exalteth a nation.
  2. Archaic, non-standard, and uncertain spellings retained as printed.
  3. Enclosed italics font in _underscores_.
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE CHILDREN'S STORY OF WESTMINSTER
+*** END OF THE PROJECT GUTENBERG EBOOK THE CHILDRENS'S STORY OF WESTMINSTER
 ABBEY ***
 
 ***** This file should be named 63628-0.txt or 63628-0.zip *****
